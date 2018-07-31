@@ -1,0 +1,20 @@
+git clone https://github.com/jsppython/aulas
+===============================================
+pip install requests
+pip install beautifulsoup4
+pip install lxml-4.2.3-cp37-cp37m-win32.whl
+================================================
+git add .
+git commit -a -m "Eliminacao de comentarios"
+git push https://github.com/jsppython/aulas master
+==================================================
+python -m pip install --upgrade pip
+python -m pip install --upgrade ipython jupyter
+=============================================
+cd repositorio
+jupyter notebook
+=================================================
+Github: jsppython - Valdoxan25%
+https://github.com/jsppython/aulas
+Criar página para rodar o projeto do GitHub
+https://mybinder.org/
