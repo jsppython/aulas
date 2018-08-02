@@ -14,7 +14,7 @@ python -m pip install --upgrade ipython jupyter
 cd repositorio
 jupyter notebook
 =================================================
-Github: jsppython - Valdoxan25%
+Github: jsppython
 https://github.com/jsppython/aulas
 Criar página para rodar o projeto do GitHub
 https://mybinder.org/
